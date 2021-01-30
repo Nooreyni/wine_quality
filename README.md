@@ -27,12 +27,13 @@ At the end of the challenge, you will be able to:
 ## Proprocessing and Classification
 
 the preprocess stood on some steps:   
+
     1- clean data (drop NaN and duplicate)   
 
     Shape initial = (6497, 13)   
     Shape after drops = (5295, 13)   
 
-    2- look for correlation   
+    2- look for correlation / relation   
 
 ![View file](img/heatmap.png)    
 
@@ -71,7 +72,7 @@ Score with best model:
 
 
 ## Author
-This is an individual project given by our caoch at BeCode.
+This is an individual project to go deeper in this dataset.
 So I do it lonely and you can also fork or download it for your own work.   
 
 Feedbacks are always welcome ;)
